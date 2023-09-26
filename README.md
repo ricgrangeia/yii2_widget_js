@@ -4,7 +4,7 @@
 
 ### Installation
 
-
+`composer require ricgrangeia/yii2_widget_js`
 
 ### Another way to use javascript inside views
 ### Usage
