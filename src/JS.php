@@ -9,7 +9,7 @@
  * @profile PHP Developer
  */
 
-namespace common\widgets;
+namespace ricgrangeia\Yii2Widgets;
 
 final class JS extends yii\base\Widget {
 
