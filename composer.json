@@ -1,0 +1,23 @@
+{
+  "name": "ricgrangeia/yii2_widget_js",
+  "description": "Javascript Inside Views for Yii2",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "widgets", "js", "javascript"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ricardo Grangeia",
+      "email": "ricardograngeia@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "yiisoft/yii2": ">=2.0.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "ricgrangeia\\yii2_widget_js\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
