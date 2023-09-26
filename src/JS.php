@@ -11,7 +11,7 @@
 
 namespace ricgrangeia\Yii2Widgets;
 
-final class JS extends yii\base\Widget {
+final class JS extends \yii\base\Widget {
 
 	public int $position = \yii\web\View::POS_READY;
 

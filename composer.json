@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ricgrangeia\\yii2_widget_js\\": "src/"
+      "ricgrangeia\\Yii2Widgets\\": "src/"
     }
   },
   "minimum-stability": "stable"
